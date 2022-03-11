@@ -1,0 +1,6 @@
+Documentation firebase : 
+https://firebase.google.com/docs/auth/android/password-auth
+https://firebase.google.com/docs/database/android/read-and-write
+
+
+
